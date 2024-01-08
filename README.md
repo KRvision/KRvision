@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KRvision
-- 👀 I’m interested in Web Development and Software Development
-- 🌱 I’m currently learning HTML, CSS, JS, and PHP.
+- 👋 Hi, I’m Ray
+- 👀 I’m interested in Web and Software Development
+- 🌱 I’m currently learning HTML, CSS, JS, Java, and SQL.
 - 💞️ I’m looking to collaborate on webite projects.
 - 📫 How to reach me email: ray.samuel907@gmail.com
 
